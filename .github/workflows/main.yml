@@ -1,5 +1,4 @@
 name: Python Tests (TDD Calculator)
-
 on:
   push:
     branches: [ "main" ]
